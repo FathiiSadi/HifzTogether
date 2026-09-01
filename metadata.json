@@ -1,0 +1,6 @@
+{
+  "name": "HifzTogether - Quran Memorization & Reflection",
+  "description": "Collaborative Quran memorization and reflection platform for partners to track Hifz, practice hide-and-reveal recall, listen to recitations, explore life reflections, and take weekly self-tests.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
